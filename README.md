@@ -1,2 +1,2 @@
-# practice_python_for_finance
+# PythonForFinance_Practice
 just for practice.
